@@ -1,0 +1,212 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lmalf.ml" resolutions="1x" timestamp="1525251210730">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3854128521" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc_0004.jpg" crc="37533417" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_00041945x1292.jpg" crc="3880148167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saite_1_0004_fons1.png" crc="137211833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saite_1_0003_fons2.png" crc="4278936229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saite_1_0002_fons3.png" crc="3789725257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saite_1_0001_fons4.png" crc="4100486562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saite_1_0000_fons5.png" crc="48274789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lma logo.png" crc="306506851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u1270.jpg" crc="3812721487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u1272.jpg" crc="4083787958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1274.jpg" crc="3947020396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dsc_0094.jpg" crc="113166103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0098.jpg" crc="118962917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0116.jpg" crc="4007422211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0152.jpg" crc="241561949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0573.jpg" crc="4290618420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0580-crop-u4192.jpg" crc="34479111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_009479x52.jpg" crc="162999947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_009879x52.jpg" crc="4105283983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_011679x52.jpg" crc="295424636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_015279x52.jpg" crc="443376353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_057379x52.jpg" crc="125794216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0580-crop-u4198.jpg" crc="252805368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="--039-pūlis--039- 2014 audekls-eļļa- 97,5x200-crop-u2995.jpg" crc="142466305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="-baznīca pirm lietus- 2015 audekls-eļļa- 45x70.jpg" crc="4249732803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="-ceturto aizgleznoja- 2015 audekls-eļļa- 140,5x190,5.jpg" crc="3772572639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="diptihs -nekam,nekur- 2015- audekls-eļļa- 195x140.jpg" crc="293475363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0034.jpg" crc="4047428266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0035.jpg" crc="296983031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0046-crop-u4399.jpg" crc="3811130886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0569.jpg" crc="453397580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0633.jpg" crc="457488375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0634.jpg" crc="376434768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0782.jpg" crc="175254013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="--039-pūlis--039- 2014 audekls-eļļa- 97,5x200-crop-u2979.jpg" crc="4294738609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="-baznīca pirm lietus- 2015 audekls-eļļa- 45x7083x52.jpg" crc="3885989860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="-ceturto aizgleznoja- 2015 audekls-eļļa- 140,5x190,574x52.jpg" crc="338817622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="diptihs -nekam,nekur- 2015- audekls-eļļa- 195x14077x52.jpg" crc="3768664850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_003479x52.jpg" crc="521235093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_003579x52.jpg" crc="172233826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0046-crop-u4405.jpg" crc="106730012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_056979x52.jpg" crc="4192358566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_063379x52.jpg" crc="113947067" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_063479x52.jpg" crc="261463673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_078279x52.jpg" crc="4073315235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0135.jpg" crc="170987675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0140.jpg" crc="323639455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0192.jpg" crc="3782359174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0484.jpg" crc="3783141038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0792.jpg" crc="3997086774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0802.jpg" crc="3805517281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0804.jpg" crc="3829134625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_013579x52.jpg" crc="4021428777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_014079x52.jpg" crc="4067531698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_019279x52.jpg" crc="531912927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_048479x52.jpg" crc="4154078233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_079279x52.jpg" crc="4282679641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_080279x52.jpg" crc="213442984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_080479x52.jpg" crc="410127219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasts.png" crc="4041067306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vieta.png" crc="504516196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telefons.png" crc="3940049716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3938649541" seo="true" mt="1524812831548" redirect="true"/>
+</manifest>
